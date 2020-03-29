@@ -42,12 +42,6 @@
             <version>1.4.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.freemarker</groupId>
-            <artifactId>freemarker</artifactId>
-            <version>2.3.23</version>
-        </dependency>
-
         <!-- Mysql数据库依赖 -->
         <!--<dependency>-->
             <!--<groupId>mysql</groupId>-->
